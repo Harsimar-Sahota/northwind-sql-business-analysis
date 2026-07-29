@@ -4,6 +4,11 @@
 
 This project demonstrates SQL-based business analysis using the Northwind sample database. It focuses on solving common business reporting and analytical problems through SQL queries involving joins, aggregations, subqueries, common table expressions (CTEs), and data updates.
 
+## Entity Relationship Diagram
+
+![Northwind ER Diagram](<img width="573" height="823" alt="Northwind_ER_Diagram" src="https://github.com/user-attachments/assets/e92c5bcd-e23c-4ce0-b1df-3a7e4869ff0e" />
+)
+
 ## Objectives
 
 - Analyze customer orders and sales data
