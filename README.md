@@ -6,7 +6,7 @@ This project demonstrates SQL-based business analysis using the Northwind sample
 
 ## Entity Relationship Diagram
 
-![Northwind ER Diagram](<img width="573" height="823" alt="Northwind_ER_Diagram" src="https://github.com/user-attachments/assets/e92c5bcd-e23c-4ce0-b1df-3a7e4869ff0e" />
+![Northwind ER Diagram](<img width="573" height="823" alt="WhatsApp Image 2026-07-28 at 8 51 16 PM" src="https://github.com/user-attachments/assets/d73dc0a1-801b-4e95-8855-ab6aaef9e026" />
 )
 
 ## Objectives
